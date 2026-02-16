@@ -15,6 +15,7 @@ Each file documents a complete workflow: overview, prerequisites, trigger, step-
 | Weekly Blog Creation | Augmented | In Production | Icebox — no skill file, possible placeholder |
 | Course Curriculum Design | Augmented | Under Development | Icebox — no skill file, asset "In Development" |
 | New Customer Welcome | Automated | In Production | Icebox — no file on disk, may live in Claude Project |
+| Universal Task and To-Do Capture | Automated | In Production | Complete |
 
 ## Structure
 
@@ -43,3 +44,4 @@ SOPs live in two places for redundancy:
 | Open Question Logging | [Forget-Me-Not__OpenQuestionLogger](https://github.com/bengio777/Forget-Me-Not__OpenQuestionLogger) |
 | Product Requirements Development | [prd-builder](https://github.com/bengio777/prd-builder) |
 | BG : Media Post-Coaching | No project repo yet |
+| Universal Task and To-Do Capture | [universal-task-capture](https://github.com/bengio777/universal-task-capture) |
