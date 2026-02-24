@@ -145,9 +145,9 @@ Output two structured artifacts in a single message:
 
 ## Automation Notes
 
-**Platform:** Claude Code (skill)
-**Skill:** agent-selection-coach
-**GitHub Repository:** bengio777/skills (synced via syncing-skills-to-github)
+**Platform:** Claude Code
+**Skill:** `agent-selection-coach`
+**GitHub Repository:** bengio777/agent-skills (synced via syncing-skills-to-github)
 
 **Reference Files:**
 1. `references/decision-matrix.md` — Complexity Ladder (4 levels), Signal-to-Pattern Map, Complexity Escalation Checklist, Anti-Patterns

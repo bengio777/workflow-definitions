@@ -144,9 +144,9 @@ If the user wants to iterate, loop back to the relevant stage.
 
 ## Automation Notes
 
-**Platform:** Claude Code (skill)
-**Skill:** prompt-coach
-**GitHub Repository:** bengio777/skills (synced via syncing-skills-to-github)
+**Platform:** Claude Code
+**Skill:** `prompt-coach`
+**GitHub Repository:** bengio777/agent-skills (synced via syncing-skills-to-github)
 
 **Reference Files:**
 1. `references/technique-catalog.md` — 14 techniques in 3 tiers (Foundational, Quality, Specialized)
